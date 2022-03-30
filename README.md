@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alyssonpaladini
 - 👀 I’m interested in UI/UX, programming & design
-- 🌱 I’m currently re-learning HTML5 and CSS3, gonna start to learn programming languages, probbly aiming for javascript and python at start.
+- 🌱 I’m currently re-learning HTML5, CSS3 and Javascript, after this re-learning process I'll aim React, Java and python.
 - 💞️ I’m looking to collaborate on stuff that might enhance skills, so I can help and practice what I'm studying too.
 - 📫 How to reach me linkedin, facebook or collabcode discord by dm.
 
